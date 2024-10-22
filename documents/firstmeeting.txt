@@ -1,0 +1,28 @@
+
+buffer
+
+create windows that are overlapping"
+
+4096 entries
+
+working buffer, the buffer we hand to the next software. it's filled
+
+we shift it over by n samples, and fill it with n samples
+
+
+compute fft,
+
+frequency space
+
+find w
+
+this tells us how fast its going around in a circle.
+
+phase shift dictates the orientation
+
+
+
+
+
+
+
